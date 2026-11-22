@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#101a35">
+  <title>PresentSir | AttendAlert</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="app-shell">
+
+    <!-- ===================== SIDEBAR ===================== -->
+    <aside class="sidebar" id="sidebar">
+
+      <div class="brand">
+        <div class="brand-mark">P</div>
+        <div>
+          <strong>PresentSir</strong>
+          <small>ATTENDALERT</small>
+        </div>
+      </div>
+
+      <div class="workspace-label">WORKSPACE</div>
+
+      <nav class="nav">
+        <button class="nav-link active" data-page="dashboard"><span>▦</span> Overview</button>
+        <button class="nav-link" data-page="attendance"><span>✓</span> Mark attendance</button>
+        <button class="nav-link" data-page="students"><span>♙</span> Students</button>
+        <button class="nav-link" data-page="alerts"><span>⚑</span> Risk &amp; alerts <i id="nav-alert-count">0</i></button>
+        <button class="nav-link" data-page="recovery"><span>↗</span> Recovery planner</button>
+        <button class="nav-link" data-page="reports"><span>▤</span> Reports &amp; import</button>
+        <button class="nav-link" data-page="student"><span>◎</span> Student portal</button>
+      </nav>
+
+      <div class="sidebar-bottom">
+        <div class="mentor-card">
+          <div class="avatar">AK</div>
+          <div>
+            <b>Prof. Anil Kumar</b>
+            <small>Faculty / Mentor</small>
+          </div>
+          <span class="online-dot"></span>
+        </div>
+        <small class="sidebar-foot">PRESENTSIR • MINI PROJECT</small>
+      </div>
+
+    </aside>
+
+    <!-- ===================== MAIN AREA ===================== -->
+    <main class="main">
+
+      <!-- Top bar -->
+      <header class="topbar">
+        <button class="mobile-menu" id="mobile-menu">☰</button>
+
+        <div>
+          <div class="eyebrow">ACADEMIC MONITORING</div>
+          <h1 id="page-title">Overview</h1>
+        </div>
+
+        <div class="top-actions">
+          <span class="today" id="today"></span>
+          <button class="icon-btn" id="refresh-btn" title="Refresh">↻</button>
+          <div class="top-avatar">AK</div>
+        </div>
+      </header>
+
+
+      <!-- ============ PAGE: OVERVIEW ============ -->
+      <section class="page active" id="page-dashboard">
+
+        <div class="welcome-row">
+          <div>
+            <h2>Good day, Professor <span>✦</span></h2>
+            <p>Here’s what’s happening across your class today.</p>
+          </div>
+          <button class="btn btn-primary" data-goto="attendance">＋ Mark attendance</button>
+        </div>
+
+        <!-- Stat cards -->
+        <div class="stats-grid">
+
+          <article class="stat-card">
+            <div class="stat-top">
+              <span>Total students</span>

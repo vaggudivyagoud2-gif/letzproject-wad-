@@ -1,0 +1,1337 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "rollNo": "26MVCSDR0001",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student01@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 2,
+      "name": "Ananya Reddy",
+      "rollNo": "26MVCSDR0002",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student02@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 3,
+      "name": "Rahul Verma",
+      "rollNo": "26MVCSDR0003",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student03@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 4,
+      "name": "Priya Nair",
+      "rollNo": "26MVCSDR0004",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student04@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 5,
+      "name": "Kiran Kumar",
+      "rollNo": "26MVCSDR0005",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student05@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 6,
+      "name": "Sneha Patel",
+      "rollNo": "26MVCSDR0006",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student06@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 7,
+      "name": "Arjun Rao",
+      "rollNo": "26MVCSDR0007",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student07@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 8,
+      "name": "Meera Iyer",
+      "rollNo": "26MVCSDR0008",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student08@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 9,
+      "name": "Rohan Das",
+      "rollNo": "26MVCSDR0009",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student09@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 10,
+      "name": "Divya Goud",
+      "rollNo": "26MVCSDR0010",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student10@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 11,
+      "name": "Ishita Singh",
+      "rollNo": "26MVCSDR0011",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student11@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 12,
+      "name": "Vikram Joshi",
+      "rollNo": "26MVCSDR0012",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student12@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 13,
+      "name": "Sanjana Rao",
+      "rollNo": "26MVCSDR0013",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student13@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 14,
+      "name": "Aditya Kumar",
+      "rollNo": "26MVCSDR0014",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student14@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 15,
+      "name": "Pooja Sharma",
+      "rollNo": "26MVCSDR0015",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student15@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 16,
+      "name": "Nikhil Reddy",
+      "rollNo": "26MVCSDR0016",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student16@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 17,
+      "name": "Kavya Menon",
+      "rollNo": "26MVCSDR0017",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student17@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 18,
+      "name": "Sai Teja",
+      "rollNo": "26MVCSDR0018",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student18@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 19,
+      "name": "Neha Gupta",
+      "rollNo": "26MVCSDR0019",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student19@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 20,
+      "name": "Varun Shah",
+      "rollNo": "26MVCSDR0020",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student20@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 21,
+      "name": "Akhil Varma",
+      "rollNo": "26MVCSDR0021",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student21@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 22,
+      "name": "Tanvi Desai",
+      "rollNo": "26MVCSDR0022",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student22@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 23,
+      "name": "Manoj Kumar",
+      "rollNo": "26MVCSDR0023",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student23@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 24,
+      "name": "Sravya Reddy",
+      "rollNo": "26MVCSDR0024",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student24@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 25,
+      "name": "Harsha Vardhan",
+      "rollNo": "26MVCSDR0025",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student25@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 26,
+      "name": "Ritika Jain",
+      "rollNo": "26MVCSDR0026",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student26@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 27,
+      "name": "Abhishek Roy",
+      "rollNo": "26MVCSDR0027",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student27@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 28,
+      "name": "Keerthi Nair",
+      "rollNo": "26MVCSDR0028",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student28@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 29,
+      "name": "Pranav S",
+      "rollNo": "26MVCSDR0029",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student29@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    },
+    {
+      "id": 30,
+      "name": "Ayesha Khan",
+      "rollNo": "26MVCSDR0030",
+      "branch": "CSD",
+      "year": "II Year",
+      "email": "student30@college.edu",
+      "mentor": "Prof. Anil Kumar"
+    }
+  ],
+  "subjects": [
+    "Data Structures",
+    "Mathematics",
+    "DBMS",
+    "Operating Systems",
+    "Computer Networks"
+  ],
+  "records": [
+    {
+      "studentId": 1,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 18,
+      "marks": 84.6
+    },
+    {
+      "studentId": 1,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 21,
+      "marks": 89.3
+    },
+    {
+      "studentId": 1,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 18,
+      "marks": 89.5
+    },
+    {
+      "studentId": 1,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 21,
+      "marks": 93.8
+    },
+    {
+      "studentId": 1,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 18,
+      "marks": 87.4
+    },
+    {
+      "studentId": 2,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 17,
+      "marks": 82.8
+    },
+    {
+      "studentId": 2,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 20,
+      "marks": 87.5
+    },
+    {
+      "studentId": 2,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 17,
+      "marks": 87.7
+    },
+    {
+      "studentId": 2,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 20,
+      "marks": 92.0
+    },
+    {
+      "studentId": 2,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 18,
+      "marks": 85.6
+    },
+    {
+      "studentId": 3,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 12,
+      "marks": 71.1
+    },
+    {
+      "studentId": 3,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 14,
+      "marks": 75.8
+    },
+    {
+      "studentId": 3,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 12,
+      "marks": 76.0
+    },
+    {
+      "studentId": 3,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 14,
+      "marks": 80.2
+    },
+    {
+      "studentId": 3,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 12,
+      "marks": 73.9
+    },
+    {
+      "studentId": 4,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 15,
+      "marks": 78.3
+    },
+    {
+      "studentId": 4,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 18,
+      "marks": 83.0
+    },
+    {
+      "studentId": 4,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 15,
+      "marks": 83.2
+    },
+    {
+      "studentId": 4,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 18,
+      "marks": 87.5
+    },
+    {
+      "studentId": 4,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 16,
+      "marks": 81.1
+    },
+    {
+      "studentId": 5,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 13,
+      "marks": 75.2
+    },
+    {
+      "studentId": 5,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 16,
+      "marks": 79.8
+    },
+    {
+      "studentId": 5,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 14,
+      "marks": 80.0
+    },
+    {
+      "studentId": 5,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 16,
+      "marks": 84.3
+    },
+    {
+      "studentId": 5,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 14,
+      "marks": 78.0
+    },
+    {
+      "studentId": 6,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 16,
+      "marks": 81.0
+    },
+    {
+      "studentId": 6,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 19,
+      "marks": 85.7
+    },
+    {
+      "studentId": 6,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 16,
+      "marks": 85.9
+    },
+    {
+      "studentId": 6,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 19,
+      "marks": 90.2
+    },
+    {
+      "studentId": 6,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 17,
+      "marks": 83.8
+    },
+    {
+      "studentId": 7,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 18,
+      "marks": 86.0
+    },
+    {
+      "studentId": 7,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 21,
+      "marks": 90.7
+    },
+    {
+      "studentId": 7,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 19,
+      "marks": 90.8
+    },
+    {
+      "studentId": 7,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 22,
+      "marks": 95.1
+    },
+    {
+      "studentId": 7,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 19,
+      "marks": 88.8
+    },
+    {
+      "studentId": 8,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 13,
+      "marks": 73.3
+    },
+    {
+      "studentId": 8,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 15,
+      "marks": 78.0
+    },
+    {
+      "studentId": 8,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 13,
+      "marks": 78.2
+    },
+    {
+      "studentId": 8,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 15,
+      "marks": 82.5
+    },
+    {
+      "studentId": 8,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 13,
+      "marks": 76.2
+    },
+    {
+      "studentId": 9,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 14,
+      "marks": 76.0
+    },
+    {
+      "studentId": 9,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 16,
+      "marks": 80.8
+    },
+    {
+      "studentId": 9,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 14,
+      "marks": 81.0
+    },
+    {
+      "studentId": 9,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 17,
+      "marks": 85.2
+    },
+    {
+      "studentId": 9,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 15,
+      "marks": 78.8
+    },
+    {
+      "studentId": 10,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 15,
+      "marks": 79.7
+    },
+    {
+      "studentId": 10,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 18,
+      "marks": 84.3
+    },
+    {
+      "studentId": 10,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 16,
+      "marks": 84.6
+    },
+    {
+      "studentId": 10,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 18,
+      "marks": 88.8
+    },
+    {
+      "studentId": 10,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 16,
+      "marks": 82.5
+    },
+    {
+      "studentId": 11,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 17,
+      "marks": 83.2
+    },
+    {
+      "studentId": 11,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 20,
+      "marks": 88.0
+    },
+    {
+      "studentId": 11,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 17,
+      "marks": 88.2
+    },
+    {
+      "studentId": 11,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 20,
+      "marks": 92.4
+    },
+    {
+      "studentId": 11,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 18,
+      "marks": 86.1
+    },
+    {
+      "studentId": 12,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 12,
+      "marks": 72.0
+    },
+    {
+      "studentId": 12,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 15,
+      "marks": 76.7
+    },
+    {
+      "studentId": 12,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 12,
+      "marks": 76.9
+    },
+    {
+      "studentId": 12,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 15,
+      "marks": 81.2
+    },
+    {
+      "studentId": 12,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 13,
+      "marks": 74.8
+    },
+    {
+      "studentId": 13,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 14,
+      "marks": 77.4
+    },
+    {
+      "studentId": 13,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 17,
+      "marks": 82.1
+    },
+    {
+      "studentId": 13,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 15,
+      "marks": 82.3
+    },
+    {
+      "studentId": 13,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 17,
+      "marks": 86.6
+    },
+    {
+      "studentId": 13,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 15,
+      "marks": 80.2
+    },
+    {
+      "studentId": 14,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 18,
+      "marks": 85.1
+    },
+    {
+      "studentId": 14,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 21,
+      "marks": 89.8
+    },
+    {
+      "studentId": 14,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 18,
+      "marks": 90.0
+    },
+    {
+      "studentId": 14,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 21,
+      "marks": 94.2
+    },
+    {
+      "studentId": 14,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 19,
+      "marks": 87.8
+    },
+    {
+      "studentId": 15,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 13,
+      "marks": 74.7
+    },
+    {
+      "studentId": 15,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 16,
+      "marks": 79.4
+    },
+    {
+      "studentId": 15,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 14,
+      "marks": 79.6
+    },
+    {
+      "studentId": 15,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 16,
+      "marks": 83.8
+    },
+    {
+      "studentId": 15,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 14,
+      "marks": 77.5
+    },
+    {
+      "studentId": 16,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 16,
+      "marks": 81.9
+    },
+    {
+      "studentId": 16,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 19,
+      "marks": 86.6
+    },
+    {
+      "studentId": 16,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 17,
+      "marks": 86.8
+    },
+    {
+      "studentId": 16,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 20,
+      "marks": 91.1
+    },
+    {
+      "studentId": 16,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 17,
+      "marks": 84.7
+    },
+    {
+      "studentId": 17,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 11,
+      "marks": 69.8
+    },
+    {
+      "studentId": 17,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 13,
+      "marks": 74.5
+    },
+    {
+      "studentId": 17,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 11,
+      "marks": 74.7
+    },
+    {
+      "studentId": 17,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 14,
+      "marks": 78.9
+    },
+    {
+      "studentId": 17,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 12,
+      "marks": 72.5
+    },
+    {
+      "studentId": 18,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 14,
+      "marks": 76.5
+    },
+    {
+      "studentId": 18,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 17,
+      "marks": 81.2
+    },
+    {
+      "studentId": 18,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 14,
+      "marks": 81.4
+    },
+    {
+      "studentId": 18,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 17,
+      "marks": 85.7
+    },
+    {
+      "studentId": 18,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 15,
+      "marks": 79.3
+    },
+    {
+      "studentId": 19,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 17,
+      "marks": 83.7
+    },
+    {
+      "studentId": 19,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 20,
+      "marks": 88.4
+    },
+    {
+      "studentId": 19,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 18,
+      "marks": 88.6
+    },
+    {
+      "studentId": 19,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 20,
+      "marks": 92.8
+    },
+    {
+      "studentId": 19,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 18,
+      "marks": 86.5
+    },
+    {
+      "studentId": 20,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 16,
+      "marks": 80.1
+    },
+    {
+      "studentId": 20,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 18,
+      "marks": 84.8
+    },
+    {
+      "studentId": 20,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 16,
+      "marks": 85.0
+    },
+    {
+      "studentId": 20,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 19,
+      "marks": 89.2
+    },
+    {
+      "studentId": 20,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 16,
+      "marks": 82.9
+    },
+    {
+      "studentId": 21,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 13,
+      "marks": 73.8
+    },
+    {
+      "studentId": 21,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 15,
+      "marks": 78.5
+    },
+    {
+      "studentId": 21,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 13,
+      "marks": 78.7
+    },
+    {
+      "studentId": 21,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 16,
+      "marks": 83.0
+    },
+    {
+      "studentId": 21,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 14,
+      "marks": 76.6
+    },
+    {
+      "studentId": 22,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 15,
+      "marks": 77.8
+    },
+    {
+      "studentId": 22,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 17,
+      "marks": 82.6
+    },
+    {
+      "studentId": 22,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 15,
+      "marks": 82.8
+    },
+    {
+      "studentId": 22,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 18,
+      "marks": 87.0
+    },
+    {
+      "studentId": 22,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 15,
+      "marks": 80.7
+    },
+    {
+      "studentId": 23,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 18,
+      "marks": 86.4
+    },
+    {
+      "studentId": 23,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 22,
+      "marks": 91.1
+    },
+    {
+      "studentId": 23,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 19,
+      "marks": 91.3
+    },
+    {
+      "studentId": 23,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 22,
+      "marks": 95.6
+    },
+    {
+      "studentId": 23,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 19,
+      "marks": 89.2
+    },
+    {
+      "studentId": 24,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 12,
+      "marks": 71.5
+    },
+    {
+      "studentId": 24,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 14,
+      "marks": 76.2
+    },
+    {
+      "studentId": 24,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 12,
+      "marks": 76.5
+    },
+    {
+      "studentId": 24,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 15,
+      "marks": 80.7
+    },
+    {
+      "studentId": 24,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 13,
+      "marks": 74.3
+    },
+    {
+      "studentId": 25,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 16,
+      "marks": 81.5
+    },
+    {
+      "studentId": 25,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 19,
+      "marks": 86.2
+    },
+    {
+      "studentId": 25,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 17,
+      "marks": 86.3
+    },
+    {
+      "studentId": 25,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 19,
+      "marks": 90.6
+    },
+    {
+      "studentId": 25,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 17,
+      "marks": 84.2
+    },
+    {
+      "studentId": 26,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 14,
+      "marks": 75.6
+    },
+    {
+      "studentId": 26,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 16,
+      "marks": 80.3
+    },
+    {
+      "studentId": 26,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 14,
+      "marks": 80.5
+    },
+    {
+      "studentId": 26,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 16,
+      "marks": 84.8
+    },
+    {
+      "studentId": 26,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 14,
+      "marks": 78.4
+    },
+    {
+      "studentId": 27,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 15,
+      "marks": 79.2
+    },
+    {
+      "studentId": 27,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 18,
+      "marks": 83.9
+    },
+    {
+      "studentId": 27,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 16,
+      "marks": 84.1
+    },
+    {
+      "studentId": 27,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 18,
+      "marks": 88.3
+    },
+    {
+      "studentId": 27,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 16,
+      "marks": 82.0
+    },
+    {
+      "studentId": 28,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 17,
+      "marks": 84.2
+    },
+    {
+      "studentId": 28,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 20,
+      "marks": 88.8
+    },
+    {
+      "studentId": 28,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 18,
+      "marks": 89.1
+    },
+    {
+      "studentId": 28,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 21,
+      "marks": 93.3
+    },
+    {
+      "studentId": 28,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 18,
+      "marks": 87.0
+    },
+    {
+      "studentId": 29,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 12,
+      "marks": 72.9
+    },
+    {
+      "studentId": 29,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 15,
+      "marks": 77.6
+    },
+    {
+      "studentId": 29,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 13,
+      "marks": 77.8
+    },
+    {
+      "studentId": 29,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 15,
+      "marks": 82.0
+    },
+    {
+      "studentId": 29,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 13,
+      "marks": 75.7
+    },
+    {
+      "studentId": 30,
+      "subject": "Data Structures",
+      "held": 20,
+      "attended": 15,
+      "marks": 78.8
+    },
+    {
+      "studentId": 30,
+      "subject": "Mathematics",
+      "held": 22,
+      "attended": 18,
+      "marks": 83.5
+    },
+    {
+      "studentId": 30,
+      "subject": "DBMS",
+      "held": 20,
+      "attended": 15,
+      "marks": 83.7
+    },
+    {
+      "studentId": 30,
+      "subject": "Operating Systems",
+      "held": 22,
+      "attended": 18,
+      "marks": 87.9
+    },
+    {
+      "studentId": 30,
+      "subject": "Computer Networks",
+      "held": 20,
+      "attended": 16,
+      "marks": 81.6
+    }
+  ],
+  "sessions": [],
+  "interventions": [],
+  "leaves": [],
+  "alerts": []
+}

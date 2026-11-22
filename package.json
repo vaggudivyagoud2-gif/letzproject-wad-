@@ -1,0 +1,13 @@
+{
+  "name": "presentsir-attendalert",
+  "version": "1.0.0",
+  "description": "PresentSir AttendAlert attendance monitoring mini-project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

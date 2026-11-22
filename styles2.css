@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap');
+
+/* ==========================================================================
+   VARIABLES
+   ========================================================================== */
+:root {
+  --navy: #111b36;
+  --navy2: #182647;
+  --ink: #17213a;
+  --muted: #7d879b;
+  --line: #e9edf4;
+  --bg: #f5f7fb;
+  --blue: #4669e8;
+  --blue-soft: #edf1ff;
+  --green: #169b72;
+  --green-soft: #e6f7f0;
+  --amber: #c98219;
+  --amber-soft: #fff4df;
+  --red: #d94c5b;
+  --red-soft: #fff0f1;
+  --purple: #8059d6;
+}
+
+/* ==========================================================================
+   BASE
+   ========================================================================== */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+}
+
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+.app-shell {
+  min-height: 100vh;
+}
+
+/* ==========================================================================
+   SIDEBAR
+   ========================================================================== */
+.sidebar {
+  width: 250px;
+  background: var(--navy);
+  color: #fff;
+  position: fixed;
+  inset: 0 auto 0 0;
+  padding: 27px 17px 18px;
+  display: flex;
+  flex-direction: column;
+  z-index: 10;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  padding: 0 9px 37px;
+}
+
+.brand-mark {
+  width: 39px;
+  height: 39px;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #6482ff, #4058ce);
+  display: grid;
+  place-items: center;
+  font: 800 23px Manrope;
+  box-shadow: 0 8px 18px #283e92;
+}
+
+.brand strong {
+  display: block;
+  font: 800 18px Manrope;
+  letter-spacing: -.5px;
+}
+
+.brand small {
+  display: block;
+  color: #8190b3;
+  font-size: 9px;
+  letter-spacing: 2px;
+  margin-top: 3px;
+}
+
+.workspace-label {
+  font-size: 9px;
+  letter-spacing: 1.8px;
+  color: #7180a2;
+  padding: 0 12px 12px;
+  font-weight: 700;
+}
+
+.nav {
+  display: grid;
+  gap: 5px;
+}
+
+.nav-link {
+  border: 0;
+  background: transparent;
+  color: #aeb9d2;
+  text-align: left;
+  padding: 12px 13px;
+  border-radius: 9px;
+  font: 600 13px 'DM Sans';
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  cursor: pointer;
+  transition: .2s;
+}
+
+.nav-link span {
+  font-size: 17px;
+  width: 18px;
+  text-align: center;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  background: #26365d;
+  color: #fff;
+}
+
+.nav-link.active {
+  box-shadow: inset 3px 0 #7891ff;
+}
+
+.nav-link i {
+  font-style: normal;
+  font-size: 10px;
+  margin-left: auto;
+  background: #d94c5b;
+  color: white;
+  padding: 2px 6px;
+  border-radius: 20px;
+}
+
+.sidebar-bottom {
+  margin-top: auto;
+}
+
+.mentor-card {
+  background: #1b2a4d;
+  border: 1px solid #2a3a61;
+  border-radius: 12px;
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  position: relative;
+}
+
+.avatar,
+.top-avatar {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: grid;
+}
